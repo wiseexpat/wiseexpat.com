@@ -1,0 +1,6 @@
+.bundle
+vendor
+tags
+_site
+.DS_Store
+Gemfile.lock

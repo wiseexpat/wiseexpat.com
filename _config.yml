@@ -1,0 +1,12 @@
+title: Wise Expat
+url: http://wiseexpat.com
+description: An expat-to-expat guide on migrating
+paginate: 5
+paginate_files: index.html
+permalink: /:year/:month/:title/
+email: info@wiseexpat.com
+keywords: expat, relocation, alien, immigrant
+author: Mr. YZ
+copyright: 2015 © All Rights Reserved wiseexpat.com
+exclude: ["vendor"]
+excerpt_separator: <!--more-->

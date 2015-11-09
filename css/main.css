@@ -1,0 +1,18 @@
+.site-header {
+  line-height: 1.4;
+}
+.site-header h1 {
+  font-size: 1.2em;
+}
+
+.site-header h2 {
+  font-size: 1.2em;
+}
+
+.site-navbar {
+  line-height: 1.2;
+  list-style: none;
+}
+.site-navbar li {
+  padding: 5px 0px;
+}
