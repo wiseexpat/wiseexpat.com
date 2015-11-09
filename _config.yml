@@ -6,7 +6,6 @@ paginate_files: index.html
 permalink: /:year/:month/:title/
 email: info@wiseexpat.com
 keywords: expat, relocation, alien, immigrant
-author: Mr. YZ
-copyright: 2015 © All Rights Reserved wiseexpat.com
+copyright: 2015 © All Rights Reserved WiseExpat.com
 exclude: ["vendor"]
 excerpt_separator: <!--more-->

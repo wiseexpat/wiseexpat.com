@@ -5,7 +5,7 @@
         <div class="post-heading">
           <h1>{{ include.heading }}</h1>
           <span class="subheading">{{ include.subheading }}</span>
-          <span class="meta">Posted by {{ include.author }} on {{ include.date | date: '%B %d, %Y') }}</span>
+          <span class="meta">Posted by {{ include.author || site.author }} on {{ include.date | date: '%B %d, %Y') }}</span>
         </div>
       </div>
     </div>
