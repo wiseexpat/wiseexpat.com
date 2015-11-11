@@ -1,6 +1,6 @@
 title: Wise Expat
 url: http://wiseexpat.com
-description: An expat-to-expat guide on migrating
+description: An expat-to-expat guide on migration
 paginate: 5
 paginate_files: index.html
 permalink: /:year/:month/:title/
