@@ -1,0 +1,8 @@
+.borderless tbody tr td {
+  border: none;
+}
+
+.borderless tfoot tr td {
+  border: none;
+  font-weight: bold;
+}
